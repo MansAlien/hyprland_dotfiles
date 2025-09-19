@@ -1,0 +1,30 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Friendly YouTube Adblock"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content-scripts/youtube-ad-blocker.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Block ads on YouTube. Auto skip video ads. Auto hide banner ads. Our Adblocker Skipper also blocks ads in embedded videos.",
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "32": "icon/32.png",
+      "48": "icon/48.png",
+      "96": "icon/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAum7bCMtjqjgBNK10Qs+v56shZ2XH9sIZY3nFdJYiLFhJsDxpo4V/CTL5xzXmWZ0j/Og3Ej8cmWLKdqnL+/VDq5FBXF0GPpxpju8rQOm0mls2u+T41xEDSHl4Kwps/tTkJU+fBbYxEaTCGEDuXbJtZhwSwFN9NdamoF9M45TeMyTwfahSoVEeIZn9KXa/Zl55rtx7Pvr217Kkte6XxXB74BTQ+IzyDq7s2nXM+o1p9lh5HhkuMNG45q/lP7vlGrkrupHAX/amiRV8JvpuoZyrvMWMOH+1Y1mnLtl0KrVhMpTETlDTbQJf3AfGrynmG95ZecXIrU50PxUc7mI+bS9BYQIDAQAB",
+   "manifest_version": 3,
+   "name": "YouTube Adblock by Friendly",
+   "permissions": [ "storage", "tabs" ],
+   "short_name": "Friendly",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

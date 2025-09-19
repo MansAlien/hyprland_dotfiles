@@ -1,0 +1,6 @@
+2025/09/19-07:54:59.880 26cc Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/19-07:54:59.880 26cc Recovering log #3
+2025/09/19-07:54:59.890 26cc Reusing old log /home/alien/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/09/19-07:58:46.982 26ca Level-0 table #5: started
+2025/09/19-07:58:46.996 26ca Level-0 table #5: 1444460 bytes OK
+2025/09/19-07:58:46.999 26ca Delete type=0 #3

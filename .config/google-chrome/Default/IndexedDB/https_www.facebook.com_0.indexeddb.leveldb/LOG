@@ -1,0 +1,6 @@
+2025/09/18-21:48:14.030 1254 Creating DB /home/alien/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2025/09/18-21:48:14.040 1254 Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/18-21:48:15.487 1254 Level-0 table #5: started
+2025/09/18-21:48:15.489 1254 Level-0 table #5: 14540 bytes OK
+2025/09/18-21:48:15.492 1254 Delete type=0 #3
+2025/09/18-21:48:15.492 1254 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
