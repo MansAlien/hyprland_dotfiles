@@ -1,0 +1,32 @@
+# SSH keys, GPG keys, credentials
+.ssh/
+.gnupg/
+
+# Shell history
+.bash_history
+.zsh_history
+
+# Local caches
+.cache/
+.local/
+.npm/
+.node_repl_history
+
+# Python / Virtualenv
+.python_history
+.venv/
+__pycache__/
+*.pyc
+
+# Package managers
+.packages/
+yarn.lock
+package-lock.json
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# XDG runtime (temporary files)
+.runtime/
+
