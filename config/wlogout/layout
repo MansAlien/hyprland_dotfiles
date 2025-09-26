@@ -1,0 +1,35 @@
+{
+    "label" : "lock",
+    "action" : "swaylock",
+    "text" : ""
+}
+
+{
+    "label" : "hibernate",
+    "action" : "systemctl hibernate",
+    "text" : ""
+}
+
+{
+    "label" : "logout",
+    "action" : "hyprctl dispatch exit",
+    "text" : ""
+}
+
+{
+    "label" : "shutdown",
+    "action" : "shutdown now",
+    "text" : ""
+}
+
+{
+    "label" : "suspend",
+    "action" : "loginctl suspend",
+    "text" : ""
+}
+
+{
+    "label" : "reboot",
+    "action" : "reboot",
+    "text" : ""
+}

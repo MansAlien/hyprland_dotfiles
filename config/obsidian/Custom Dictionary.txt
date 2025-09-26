@@ -1,0 +1,14 @@
+BW
+CSV
+Dockerized
+EGP
+FK
+Hostinger
+Ibrahim
+MRR
+NVMe
+SMS
+WhatsApp
+pomodoro
+vCPU
+checksum_v1 = 173abb22433dc1b7f708db62f810d55c

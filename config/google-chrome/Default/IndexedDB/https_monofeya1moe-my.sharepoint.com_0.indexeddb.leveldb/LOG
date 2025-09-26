@@ -1,0 +1,23 @@
+2025/09/24-16:24:42.033 a2e Creating DB /home/alien/.config/google-chrome/Default/IndexedDB/https_monofeya1moe-my.sharepoint.com_0.indexeddb.leveldb since it was missing.
+2025/09/24-16:24:42.039 a2e Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_monofeya1moe-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/24-16:24:47.775 a3d Level-0 table #5: started
+2025/09/24-16:24:47.815 a3d Level-0 table #5: 1561651 bytes OK
+2025/09/24-16:24:47.821 a3d Delete type=0 #3
+2025/09/24-16:25:37.650 a3d Level-0 table #7: started
+2025/09/24-16:25:37.682 a3d Level-0 table #7: 1711470 bytes OK
+2025/09/24-16:25:37.685 a3d Delete type=0 #4
+2025/09/24-16:25:39.731 a2e Compacting 1@1 + 1@2 files
+2025/09/24-16:25:39.750 a2e Generated table #8@1: 2938 keys, 1207647 bytes
+2025/09/24-16:25:39.751 a2e Compacted 1@1 + 1@2 files => 1207647 bytes
+2025/09/24-16:25:39.753 a2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/24-16:25:39.754 a2e Delete type=2 #7
+2025/09/24-16:25:39.754 a2e Delete type=2 #5
+2025/09/24-16:50:34.983 a2e Level-0 table #10: started
+2025/09/24-16:50:35.039 a2e Level-0 table #10: 2543170 bytes OK
+2025/09/24-16:50:35.044 a2e Delete type=0 #6
+2025/09/24-16:55:55.015 a2e Compacting 1@1 + 1@2 files
+2025/09/24-16:55:55.078 a2e Generated table #11@1: 3464 keys, 1605796 bytes
+2025/09/24-16:55:55.078 a2e Compacted 1@1 + 1@2 files => 1605796 bytes
+2025/09/24-16:55:55.081 a2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/24-16:55:55.082 a2e Delete type=2 #8
+2025/09/24-16:55:55.082 a2e Delete type=2 #10

@@ -1,0 +1,12 @@
+2025/09/26-13:05:11.052 8fd Reusing MANIFEST /home/alien/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2025/09/26-13:05:11.052 8fd Recovering log #132
+2025/09/26-13:05:11.058 8fd Reusing old log /home/alien/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000132.log 
+2025/09/26-13:16:33.224 8fd Level-0 table #137: started
+2025/09/26-13:16:33.230 8fd Level-0 table #137: 1127159 bytes OK
+2025/09/26-13:16:33.233 8fd Delete type=0 #132
+2025/09/26-14:57:14.302 901 Compacting 1@1 + 1@2 files
+2025/09/26-14:57:14.350 901 Generated table #138@1: 40 keys, 123854 bytes
+2025/09/26-14:57:14.350 901 Compacted 1@1 + 1@2 files => 123854 bytes
+2025/09/26-14:57:14.353 901 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/26-14:57:14.353 901 Delete type=2 #137
+2025/09/26-14:57:14.354 901 Delete type=2 #134

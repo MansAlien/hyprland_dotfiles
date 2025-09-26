@@ -1,0 +1,5 @@
+2025/09/24-16:24:34.728 a2c Creating DB /home/alien/.config/google-chrome/Default/WebStorage/48/IndexedDB/indexeddb.leveldb since it was missing.
+2025/09/24-16:24:34.733 a2c Reusing MANIFEST /home/alien/.config/google-chrome/Default/WebStorage/48/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/09/24-16:25:00.600 a2e Level-0 table #5: started
+2025/09/24-16:25:00.630 a2e Level-0 table #5: 1842883 bytes OK
+2025/09/24-16:25:00.635 a2e Delete type=0 #3

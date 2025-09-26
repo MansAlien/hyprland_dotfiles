@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "04ebde37-45c1-42f7-acd2-62437a2fb589",
+      "logo": {
+        "imageUrl": "ccfd48ea-7f0f-4155-ae70-96ba42312ad4/2be82e42-9ff3-48e2-bb2a-d566e41f50b3.png",
+        "destinationUrl": "https://x.com/MidnightNtwrk/status/1970129958141129211",
+        "alt": "Cardano",
+        "companyName": "Cardano"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "ccfd48ea-7f0f-4155-ae70-96ba42312ad4/694c3cdc-e205-471a-b770-f5d4c911578d.jpg",
+          "creativeInstanceId": "ad00e500-cf8c-4738-a549-b27e51ae2c22",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "eaf50337-6ae7-4bdb-a392-705f0e36d83f/f57fc700-3d64-447b-9894-b1de5112f3dd.jpg",
+          "creativeInstanceId": "c57f3753-9402-463f-af90-d0b0d1d9fc63",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "eaf50337-6ae7-4bdb-a392-705f0e36d83f/f40b1c97-0196-4806-89a1-5dd63d79d2b3.png",
+            "destinationUrl": "https://x.com/MidnightNtwrk/status/1970129958141129211",
+            "alt": "Cardano",
+            "companyName": "Cardano"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "04ebde37-45c1-42f7-acd2-62437a2fb589",
+      "logo": {
+        "imageUrl": "ccfd48ea-7f0f-4155-ae70-96ba42312ad4/2be82e42-9ff3-48e2-bb2a-d566e41f50b3.png",
+        "destinationUrl": "https://x.com/MidnightNtwrk/status/1970129958141129211",
+        "alt": "Cardano",
+        "companyName": "Cardano"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "ccfd48ea-7f0f-4155-ae70-96ba42312ad4/694c3cdc-e205-471a-b770-f5d4c911578d.jpg",
+          "creativeInstanceId": "ad00e500-cf8c-4738-a549-b27e51ae2c22",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "eaf50337-6ae7-4bdb-a392-705f0e36d83f/f57fc700-3d64-447b-9894-b1de5112f3dd.jpg",
+          "creativeInstanceId": "c57f3753-9402-463f-af90-d0b0d1d9fc63",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "eaf50337-6ae7-4bdb-a392-705f0e36d83f/f40b1c97-0196-4806-89a1-5dd63d79d2b3.png",
+            "destinationUrl": "https://x.com/MidnightNtwrk/status/1970129958141129211",
+            "alt": "Cardano",
+            "companyName": "Cardano"
+          }
+        }
+      ]
+    }
+  ]
+}

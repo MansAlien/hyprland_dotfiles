@@ -1,0 +1,10 @@
+2025/09/26-10:57:02.258 1088 Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/26-10:57:02.259 1088 Recovering log #162
+2025/09/26-10:57:02.263 1088 Reusing old log /home/alien/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000162.log 
+2025/09/26-10:58:20.648 1077 Level-0 table #167: started
+2025/09/26-10:58:20.663 1077 Level-0 table #167: 1857371 bytes OK
+2025/09/26-10:58:20.667 1077 Delete type=0 #162
+2025/09/26-10:58:36.842 1077 Compacting 1@1 + 1@2 files
+2025/09/26-10:58:36.852 1077 Generated table #168@1: 1526 keys, 96601 bytes
+2025/09/26-10:58:36.852 1077 Compacted 1@1 + 1@2 files => 96601 bytes
+2025/09/26-10:58:36.855 1077 compacted to: files[ 0 0 1 0 0 0 0 ]

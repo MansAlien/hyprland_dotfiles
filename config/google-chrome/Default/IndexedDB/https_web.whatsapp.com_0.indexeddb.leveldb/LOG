@@ -1,0 +1,76 @@
+2025/09/26-15:13:21.673 8fd Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/26-15:13:21.675 8fd Recovering log #2784
+2025/09/26-15:13:21.706 8fd Reusing old log /home/alien/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002784.log 
+2025/09/26-15:13:53.382 8ff Level-0 table #2816: started
+2025/09/26-15:13:53.396 8ff Level-0 table #2816: 665561 bytes OK
+2025/09/26-15:13:53.400 8ff Delete type=0 #2784
+2025/09/26-15:13:53.400 8ff Manual compaction at level-0 from (begin) .. (end); will stop at '\x00H\x02\x1f\x03\x00\xf0\x19/\xb4\x97yB\x00\x01,\x00j\x00X\x00J\x00L\x00U\x00d\x005\x00O\x00d\x008\x00e\x00K\x00a\x00t\x00t\x00w\x00k\x00W\x00M\x003\x00/\x00v\x00b\x00Z\x00W\x00a\x00S\x00h\x00f\x00a\x00B\x00D\x00w\x00L\x00D\x00c\x00F\x001\x00z\x00k\x00N\x008\x00c\x00=' @ 8417467 : 1
+2025/09/26-15:13:53.400 8ff Compacting 1@0 + 0@1 files
+2025/09/26-15:13:53.410 8ff Generated table #2817@0: 10429 keys, 198919 bytes
+2025/09/26-15:13:53.414 8ff Generated table #2818@0: 1219 keys, 103996 bytes
+2025/09/26-15:13:53.416 8ff Generated table #2819@0: 242 keys, 6836 bytes
+2025/09/26-15:13:53.416 8ff Compacted 1@0 + 0@1 files => 309751 bytes
+2025/09/26-15:13:53.419 8ff compacted to: files[ 0 3 28 0 0 0 0 ]
+2025/09/26-15:13:53.419 8ff Delete type=2 #2816
+2025/09/26-15:13:53.420 8ff Manual compaction at level-0 from '\x00H\x02\x1f\x03\x00\xf0\x19/\xb4\x97yB\x00\x01,\x00j\x00X\x00J\x00L\x00U\x00d\x005\x00O\x00d\x008\x00e\x00K\x00a\x00t\x00t\x00w\x00k\x00W\x00M\x003\x00/\x00v\x00b\x00Z\x00W\x00a\x00S\x00h\x00f\x00a\x00B\x00D\x00w\x00L\x00D\x00c\x00F\x001\x00z\x00k\x00N\x008\x00c\x00=' @ 8417467 : 1 .. (end); will stop at (end)
+2025/09/26-15:13:53.420 8ff Manual compaction at level-1 from (begin) .. (end); will stop at '\x00H\x02\x1f\x03\x00\xf0\x19/\xb4\x97yB\x00\x01,\x00j\x00X\x00J\x00L\x00U\x00d\x005\x00O\x00d\x008\x00e\x00K\x00a\x00t\x00t\x00w\x00k\x00W\x00M\x003\x00/\x00v\x00b\x00Z\x00W\x00a\x00S\x00h\x00f\x00a\x00B\x00D\x00w\x00L\x00D\x00c\x00F\x001\x00z\x00k\x00N\x008\x00c\x00=' @ 8417467 : 1
+2025/09/26-15:13:53.420 8ff Compacting 3@1 + 28@2 files
+2025/09/26-15:13:53.472 8ff Generated table #2820@1: 85324 keys, 2234144 bytes
+2025/09/26-15:13:53.518 8ff Generated table #2821@1: 99723 keys, 2253054 bytes
+2025/09/26-15:13:53.557 8ff Generated table #2822@1: 40488 keys, 2219004 bytes
+2025/09/26-15:13:53.604 8ff Generated table #2823@1: 46398 keys, 2208029 bytes
+2025/09/26-15:13:53.621 8ff Generated table #2824@1: 2198 keys, 2153619 bytes
+2025/09/26-15:13:53.637 8ff Generated table #2825@1: 2118 keys, 2156524 bytes
+2025/09/26-15:13:53.654 8ff Generated table #2826@1: 1941 keys, 2154755 bytes
+2025/09/26-15:13:53.673 8ff Generated table #2827@1: 1797 keys, 2155325 bytes
+2025/09/26-15:13:53.692 8ff Generated table #2828@1: 2288 keys, 2153668 bytes
+2025/09/26-15:13:53.711 8ff Generated table #2829@1: 2437 keys, 2153325 bytes
+2025/09/26-15:13:53.728 8ff Generated table #2830@1: 2543 keys, 2157523 bytes
+2025/09/26-15:13:53.754 8ff Generated table #2831@1: 14111 keys, 2175034 bytes
+2025/09/26-15:13:53.798 8ff Generated table #2832@1: 26355 keys, 2269246 bytes
+2025/09/26-15:13:53.843 8ff Generated table #2833@1: 24324 keys, 2275251 bytes
+2025/09/26-15:13:53.885 8ff Generated table #2834@1: 25609 keys, 2258069 bytes
+2025/09/26-15:13:53.925 8ff Generated table #2835@1: 26055 keys, 2246795 bytes
+2025/09/26-15:13:53.973 8ff Generated table #2836@1: 21117 keys, 2327402 bytes
+2025/09/26-15:13:53.987 8ff Generated table #2837@1: 4171 keys, 2140940 bytes
+2025/09/26-15:13:54.008 8ff Generated table #2838@1: 13992 keys, 2148750 bytes
+2025/09/26-15:13:54.031 8ff Generated table #2839@1: 9565 keys, 2136928 bytes
+2025/09/26-15:13:54.083 8ff Generated table #2840@1: 98318 keys, 2248412 bytes
+2025/09/26-15:13:54.136 8ff Generated table #2841@1: 96689 keys, 2245598 bytes
+2025/09/26-15:13:54.189 8ff Generated table #2842@1: 97094 keys, 2246838 bytes
+2025/09/26-15:13:54.242 8ff Generated table #2843@1: 98151 keys, 2249023 bytes
+2025/09/26-15:13:54.252 8ff Generated table #2844@1: 14721 keys, 381038 bytes
+2025/09/26-15:13:54.252 8ff Compacted 3@1 + 28@2 files => 53348294 bytes
+2025/09/26-15:13:54.256 8ff compacted to: files[ 0 0 25 0 0 0 0 ]
+2025/09/26-15:13:54.256 8ff Delete type=2 #2789
+2025/09/26-15:13:54.256 8ff Delete type=2 #2795
+2025/09/26-15:13:54.256 8ff Delete type=2 #2395
+2025/09/26-15:13:54.256 8ff Delete type=2 #2813
+2025/09/26-15:13:54.256 8ff Delete type=2 #2818
+2025/09/26-15:13:54.256 8ff Delete type=2 #2797
+2025/09/26-15:13:54.256 8ff Delete type=2 #2790
+2025/09/26-15:13:54.256 8ff Delete type=2 #2792
+2025/09/26-15:13:54.256 8ff Delete type=2 #2810
+2025/09/26-15:13:54.256 8ff Delete type=2 #2798
+2025/09/26-15:13:54.256 8ff Delete type=2 #2805
+2025/09/26-15:13:54.256 8ff Delete type=2 #2817
+2025/09/26-15:13:54.257 8ff Delete type=2 #2747
+2025/09/26-15:13:54.257 8ff Delete type=2 #2808
+2025/09/26-15:13:54.257 8ff Delete type=2 #2804
+2025/09/26-15:13:54.257 8ff Delete type=2 #2809
+2025/09/26-15:13:54.257 8ff Delete type=2 #2796
+2025/09/26-15:13:54.257 8ff Delete type=2 #2807
+2025/09/26-15:13:54.257 8ff Delete type=2 #2799
+2025/09/26-15:13:54.257 8ff Delete type=2 #2793
+2025/09/26-15:13:54.257 8ff Delete type=2 #2783
+2025/09/26-15:13:54.257 8ff Delete type=2 #2801
+2025/09/26-15:13:54.257 8ff Delete type=2 #2802
+2025/09/26-15:13:54.257 8ff Delete type=2 #2811
+2025/09/26-15:13:54.257 8ff Delete type=2 #2812
+2025/09/26-15:13:54.257 8ff Delete type=2 #2800
+2025/09/26-15:13:54.257 8ff Delete type=2 #2806
+2025/09/26-15:13:54.257 8ff Delete type=2 #2791
+2025/09/26-15:13:54.257 8ff Delete type=2 #2819
+2025/09/26-15:13:54.257 8ff Delete type=2 #2794
+2025/09/26-15:13:54.257 8ff Delete type=2 #2803
+2025/09/26-15:13:54.259 8ff Manual compaction at level-1 from '\x00H\x02\x1f\x03\x00\xf0\x19/\xb4\x97yB\x00\x01,\x00j\x00X\x00J\x00L\x00U\x00d\x005\x00O\x00d\x008\x00e\x00K\x00a\x00t\x00t\x00w\x00k\x00W\x00M\x003\x00/\x00v\x00b\x00Z\x00W\x00a\x00S\x00h\x00f\x00a\x00B\x00D\x00w\x00L\x00D\x00c\x00F\x001\x00z\x00k\x00N\x008\x00c\x00=' @ 8417467 : 1 .. (end); will stop at (end)

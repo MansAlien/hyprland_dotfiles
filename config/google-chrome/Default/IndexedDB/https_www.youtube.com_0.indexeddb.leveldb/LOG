@@ -1,0 +1,5 @@
+2025/09/26-13:14:40.914 8fd Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/26-13:14:40.914 8fd Recovering log #166
+2025/09/26-13:14:40.920 8fd Reusing old log /home/alien/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000166.log 
+2025/09/26-13:14:40.920 8fd Delete type=2 #164
+2025/09/26-13:14:40.920 8fd Delete type=2 #167

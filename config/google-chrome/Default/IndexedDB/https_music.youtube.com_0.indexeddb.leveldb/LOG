@@ -1,0 +1,15 @@
+2025/09/26-07:57:31.073 896 Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/26-07:57:31.073 896 Recovering log #15
+2025/09/26-07:57:31.089 896 Reusing old log /home/alien/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000015.log 
+2025/09/26-07:58:04.110 898 Level-0 table #20: started
+2025/09/26-07:58:04.131 898 Level-0 table #20: 1118708 bytes OK
+2025/09/26-07:58:04.136 898 Delete type=0 #15
+2025/09/26-07:58:04.137 898 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/09/26-07:58:04.137 898 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\xc0P@\x03\x00PgW\xd5\x97yB\x00\x03\x00\x00\x00\x00\x00\xf0t@' @ 31779 : 1
+2025/09/26-07:58:04.137 898 Compacting 1@1 + 1@2 files
+2025/09/26-07:58:04.147 898 Generated table #21@1: 1599 keys, 60772 bytes
+2025/09/26-07:58:04.147 898 Compacted 1@1 + 1@2 files => 60772 bytes
+2025/09/26-07:58:04.150 898 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/26-07:58:04.150 898 Delete type=2 #17
+2025/09/26-07:58:04.150 898 Delete type=2 #20
+2025/09/26-07:58:04.151 898 Manual compaction at level-1 from '\x00\x09\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\xc0P@\x03\x00PgW\xd5\x97yB\x00\x03\x00\x00\x00\x00\x00\xf0t@' @ 31779 : 1 .. (end); will stop at (end)

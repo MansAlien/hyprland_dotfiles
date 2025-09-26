@@ -1,0 +1,6 @@
+2025/09/24-11:24:04.147 a3d Creating DB /home/alien/.config/google-chrome/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb since it was missing.
+2025/09/24-11:24:04.152 a3d Reusing MANIFEST /home/alien/.config/google-chrome/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/24-11:24:06.639 a3b Level-0 table #5: started
+2025/09/24-11:24:06.641 a3b Level-0 table #5: 14567 bytes OK
+2025/09/24-11:24:06.643 a3b Delete type=0 #3
+2025/09/24-11:24:06.644 a3b Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

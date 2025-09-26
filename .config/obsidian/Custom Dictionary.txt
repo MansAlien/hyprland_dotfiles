@@ -1,2 +1,0 @@
-pomodoro
-checksum_v1 = d17082807a6d2c2d0c39c1d437232be0
