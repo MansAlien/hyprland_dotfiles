@@ -36,7 +36,6 @@ vim.api.nvim_create_autocmd("FileType", {
     vim.wo.foldmethod = "expr"
     vim.wo.foldexpr = "v:lua.vim.treesitter.foldexpr()"
     vim.wo.foldlevel = 99  -- Window-local
-    -- Remove vim.wo.foldlevelstart here, as it's set globally in VimEnter
   end,
 })
 
@@ -51,3 +50,9 @@ end
 
 vim.keymap.set("n", "<leader>zs", close_all_folds, { desc = "[s]hut all folds" })
 vim.keymap.set("n", "<leader>zo", open_all_folds, { desc = "[o]pen all folds" })
+
+vim.opt.encoding = 'utf-8'
+vim.opt.fileencoding = 'utf-8'
+vim.opt.arabicshape = true
+vim.opt.rightleft = false  -- Only enable when editing Arabic text
+vim.opt.termbidi = true
