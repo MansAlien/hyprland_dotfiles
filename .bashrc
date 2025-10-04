@@ -3,6 +3,10 @@ export POSH_SHELL_VERSION=$BASH_VERSION
 export POWERLINE_COMMAND="oh-my-posh"
 export POSH_PID=$$
 export CONDA_PROMPT_MODIFIER=false
+export LANG=ar_EG.UTF-8
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
 omp_start_time=""
 
 # start timer on command start
@@ -80,3 +84,6 @@ fi
 alias httpsmirrors="rate-mirrors --allow-root --protocol https arch | sudo tee /etc/pacman.d/mirrorlist"
 alias active="source .venv/bin/activate"
 alias vision="cd Alien/django/Django-Orders_app && source .venv/bin/activate && nvim"
+alias neobean='NVIM_APPNAME=neobean nvim'
+alias neoabdo='NVIM_APPNAME=neoabdo nvim'
+
